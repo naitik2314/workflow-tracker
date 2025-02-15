@@ -1,5 +1,6 @@
 | Date | Project | Summary |
 |---|---|---|
+| 2025-02-13 | Portfolio-v6 | Added landing page |
 | 2025-02-12 | Portfolio-v6 | Created a new project for Portfolio Website |
 | 2025-02-11 | Fitness App | Created API functionality |
 | 2025-02-10 | Fitness App | Created project named Fitness App |
