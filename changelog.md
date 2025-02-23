@@ -1,6 +1,6 @@
 | Date | Project | Summary |
 |---|---|---|
-| 2025-02-20 | Aithlete | Updated Prompt Engineer to use Radio Button |
+| 2025-02-20 | Prompt=Engineer | Updated Prompt Engineer to use Radio Button |
 | 2025-02-16 | Aithlete | Added API functionality |
 | 2025-02-15 | Portfolio-v6 | Added education |
 | 2025-02-14 | Portfolio-v6 | Added projects section |
