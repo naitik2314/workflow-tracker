@@ -1,5 +1,6 @@
 | Date | Project | Summary |
 |---|---|---|
+| 2025-02-15 | Aithlete | Added API functionality |
 | 2025-02-15 | Portfolio-v6 | Added education |
 | 2025-02-14 | Portfolio-v6 | Added projects section |
 | 2025-02-13 | Portfolio-v6 | Added landing page |
