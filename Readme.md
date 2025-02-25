@@ -1,6 +1,7 @@
 | Date | Project | Summary |
 |---|---|---|
-| 2025-02-22 | Aithlete | Tested service size option |
+| 2025-02-24 | Aithlete | Testing better approach for serving size |
+| 2025-02-22 | Aithlete | Tested serving size option |
 | 2025-02-22 | Prompt-Engineer | Created base function to give API call function (custom) |
 | 2025-02-21 | Prompt-Engineer | Added option to select prefered LLM |
 | 2025-02-20 | Prompt-Engineer | Updated Prompt Engineer to use Radio Button |
