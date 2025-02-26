@@ -1,5 +1,6 @@
 | Date | Project | Summary |
 |---|---|---|
+| 2025-02-25 | Aithlete | New function for serving size |
 | 2025-02-24 | Aithlete | Testing better approach for serving size |
 | 2025-02-22 | Aithlete | Tested serving size option |
 | 2025-02-22 | Prompt-Engineer | Created base function to give API call function (custom) |
