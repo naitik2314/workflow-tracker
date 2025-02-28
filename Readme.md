@@ -1,5 +1,6 @@
 | Date | Project | Summary |
 |---|---|---|
+| 2025-02-27 | CAP6.0-Software | Initialized CAP6.0 project |
 | 2025-02-25 | Aithlete | New function for serving size |
 | 2025-02-24 | Aithlete | Testing better approach for serving size |
 | 2025-02-22 | Aithlete | Tested serving size option |
